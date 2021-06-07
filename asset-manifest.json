@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/siterpg/static/css/main.e480266f.chunk.css",
+    "main.js": "/siterpg/static/js/main.11324431.chunk.js",
+    "main.js.map": "/siterpg/static/js/main.11324431.chunk.js.map",
+    "runtime-main.js": "/siterpg/static/js/runtime-main.0408219f.js",
+    "runtime-main.js.map": "/siterpg/static/js/runtime-main.0408219f.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/siterpg/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e2840c52.chunk.js": "/siterpg/static/js/2.e2840c52.chunk.js",
+    "static/js/2.e2840c52.chunk.js.map": "/siterpg/static/js/2.e2840c52.chunk.js.map",
+    "static/js/3.1bbb8b42.chunk.js": "/siterpg/static/js/3.1bbb8b42.chunk.js",
+    "static/js/3.1bbb8b42.chunk.js.map": "/siterpg/static/js/3.1bbb8b42.chunk.js.map",
+    "index.html": "/siterpg/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/siterpg/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.e480266f.chunk.css.map": "/siterpg/static/css/main.e480266f.chunk.css.map",
+    "static/js/2.e2840c52.chunk.js.LICENSE.txt": "/siterpg/static/js/2.e2840c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0408219f.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e2840c52.chunk.js",
+    "static/css/main.e480266f.chunk.css",
+    "static/js/main.11324431.chunk.js"
+  ]
+}
