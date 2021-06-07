@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/siterpg/static/css/main.e480266f.chunk.css",
-    "main.js": "/siterpg/static/js/main.11324431.chunk.js",
-    "main.js.map": "/siterpg/static/js/main.11324431.chunk.js.map",
+    "main.js": "/siterpg/static/js/main.6a12e85b.chunk.js",
+    "main.js.map": "/siterpg/static/js/main.6a12e85b.chunk.js.map",
     "runtime-main.js": "/siterpg/static/js/runtime-main.0408219f.js",
     "runtime-main.js.map": "/siterpg/static/js/runtime-main.0408219f.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/siterpg/static/css/2.c1f4f5f4.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.e2840c52.chunk.js",
     "static/css/main.e480266f.chunk.css",
-    "static/js/main.11324431.chunk.js"
+    "static/js/main.6a12e85b.chunk.js"
   ]
 }
